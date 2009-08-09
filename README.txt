@@ -67,6 +67,10 @@
   Changelog
   ---------
 
+  0.5.1 (2009-08-09)
+  ------------------
+  * Fixed project layout.
+    
   0.5 (2009-08-09)
   ----------------
   * Upgraded to new OpenZoom Nano viewer (0.9.0.0)
@@ -99,5 +103,5 @@
 
   0.1 (2008-12-23)
   ----------------
-  ÇFirst release. Nothing is new, or everything is new,
-   depending on how you think about it.È -- Google
+  "First release. Nothing is new, or everything is new,
+   depending on how you think about it." -- Google
