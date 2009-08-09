@@ -40,6 +40,11 @@
   ------------
   <http://gasi.ch/blog/pimp-your-photoshop-zoomify-with-openzoom/>
 
+  
+  Code
+  ----
+  <http://openzoom.org/go/code>
+
 
 --------------------------------------------------------------------------------
 
@@ -58,6 +63,11 @@
   <http://www.mozilla.org/MPL/MPL-1.1.txt>
   <http://www.gnu.org/licenses/gpl-3.0.txt>
   <http://www.gnu.org/licenses/lgpl-3.0.txt>
+  
+  OpenZoom Nano License: MPL 1.1/GPL 3/LGPL 3
+  <http://www.mozilla.org/MPL/MPL-1.1.txt>
+  <http://www.gnu.org/licenses/gpl-3.0.txt>
+  <http://www.gnu.org/licenses/lgpl-3.0.txt>
 
   SWFObject License: MIT
   <http://www.opensource.org/licenses/mit-license.php>
@@ -67,6 +77,10 @@
   Changelog
   ---------
 
+  0.5.2 (2009-08-09)
+  ------------------
+  * Added some licensing documentation and links to source code.
+  
   0.5.1 (2009-08-09)
   ------------------
   * Fixed project layout.
