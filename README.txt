@@ -76,6 +76,16 @@
 
   Changelog
   ---------
+  
+  0.7 (2009-11-29)
+  ----------------
+  * Updated OpenZoom Nano viewer to 0.9.1:
+    
+    Added support for setting intial viewport bounds through
+    viewportBounds HTML FlashVars, e.g.
+    <param name="flashvars" value="source=...&viewportBounds=0.2,0.5,0.5,0.4" />
+
+    Feature suggestion by Samuel Monnier.
 
   0.5.2 (2009-08-09)
   ------------------
