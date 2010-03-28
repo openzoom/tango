@@ -77,6 +77,13 @@
   Changelog
   ---------
   
+  0.7.1 (2010-03-28)
+  ------------------
+  * Updated OpenZoom Nano viewer to 0.9.1.1:
+  * Updated SWFObject to version 2.2.
+  * Changed behavior of resolving URL in OpenZoom SDK.
+  
+  
   0.7 (2009-11-29)
   ----------------
   * Updated OpenZoom Nano viewer to 0.9.1:
